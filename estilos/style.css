@@ -73,4 +73,18 @@ section#redes-sociais img:hover{
     body {
         background-size: cover;  
     }
+
+    section#redes-sociais {
+        text-align: right; /* Mantenha o alinhamento à direita */
+        flex-direction: column; /* Coloque os ícones em uma coluna vertical */
+        align-items: flex-end; /* Alinhe os ícones à direita */
+        right: 10px; /* Mantenha a posição à direita */
+        transform: translateY(-50%); /* Mantenha o ajuste de translateY */
+    }
+
+    section#redes-sociais img {
+        width: 50px; /* Mantenha o tamanho dos ícones */
+        margin: 10px; /* Mantenha o espaçamento entre os ícones */
+    }
+}
 }
