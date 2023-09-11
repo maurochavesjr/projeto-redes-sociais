@@ -75,15 +75,14 @@ section#redes-sociais img:hover{
     }
 
     section#redes-sociais {
-        text-align: right; /* Mantenha o alinhamento à direita */
-        flex-direction: column; /* Coloque os ícones em uma coluna vertical */
-        align-items: flex-end; /* Alinhe os ícones à direita */
-        right: 10px; /* Mantenha a posição à direita */
-        transform: translateY(-50%); /* Mantenha o ajuste de translateY */
+        text-align: right;         flex-direction: column; 
+        align-items: flex-end; 
+        right: 10px; 
+        transform: translateY(-50%); 
     }
 
     section#redes-sociais img {
-        width: 50px;
+        width: 30px;
         margin: 5px 0; 
     }
 }
