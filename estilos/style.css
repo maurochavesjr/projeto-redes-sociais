@@ -71,6 +71,6 @@ section#redes-sociais img:hover{
 
 @media (max-width: 768px) {
     body {
-        background-size: cover;
+        background-size: cover;  
     }
 }
