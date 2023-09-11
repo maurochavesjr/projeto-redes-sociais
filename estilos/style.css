@@ -83,8 +83,8 @@ section#redes-sociais img:hover{
     }
 
     section#redes-sociais img {
-        width: 50px; /* Mantenha o tamanho dos ícones */
-        margin: 10px; /* Mantenha o espaçamento entre os ícones */
+        width: 50px;
+        margin: 5px 0; 
     }
 }
 }
