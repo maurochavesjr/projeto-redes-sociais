@@ -1,6 +1,6 @@
 # Projeto Redes Sociais
 
-<img src="portfolio-details-3" alt="Exemplo imagem">
+<img src="Capturar.PNG" alt="Exemplo imagem">
 
 > Projeto criado durante o curso de HTML e CSS do Curso em Vídeo. O objetivo do projeto é de construirmos um site para divulgar nossas redes sociais.
 
